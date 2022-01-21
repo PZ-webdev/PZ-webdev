@@ -9,9 +9,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
 
-I am a student of the second year of engineering studies in the field of computer science and engineering at the University of Rzeszów. A developer who codes in PHP - Laravel.
-I really like discovering new domains. I can analyze and solve problems well. My goal is to build a career in an organization that will enable me to apply my skills to the growth and profitability of the organization as well as to individual development.
-I am a dedicated and hardworking member of the team.
+I am a student of the second year of engineering studies in the field of computer science at the University of Rzeszów. A developer who codes in PHP - Laravel. I really like discovering new domains. I can analyze and solve problems well. My goal is to build a career in an organization that will enable me to apply my skills to the growth and profitability of the organization as well as to individual development. I am a dedicated and hardworking member of the team.
 
  🔭 I’m currently working on Web Development Projects.  
  🌱 I’m currently learning Best Practices for DSA and CP.  
