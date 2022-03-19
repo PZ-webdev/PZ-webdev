@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Patryk Zaprzała <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Patryk <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h1 align="center">I am a Junior Web Developer❤ </h1>
 
 --- 
