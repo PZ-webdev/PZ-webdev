@@ -12,7 +12,8 @@
 ---
 
 ### 🛠 Tech Stack
-<img alt="PHP" src="https://img.shields.io/badge/php-8993be.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<p>
+ <img alt="PHP" src="https://img.shields.io/badge/php-8993be.svg?&style=for-the-badge&logo=php&logoColor=white" />
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-CB3837.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,6 +25,7 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <br />
+</p>
 
 ---
 
