@@ -4,8 +4,6 @@
 
  - 🔭 I’m currently working on Web Development Projects.  
  - 🌱 I’m currently learning Best Practices for DSA and CP.  
-<!--  👯 I’m looking to collaborate on any web development Project.   -->
-<!--  🤔 I’m looking for help with Internship.   -->
 -  😄 Pronouns: You can give one.  
 -  ⚡ Fun fact: I can work without music.  
    
