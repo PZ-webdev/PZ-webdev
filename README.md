@@ -33,13 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PZ-webdev&show_icons=true&theme=dracula&line_height=33" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PZ-webdev&theme=dracula&line_height=10">
 </p>
-
----
-
-### 📫 Let's Connect
-
-<a href="mailto:pzaprzala@gmail.com">
-  <img align="left" alt="Jeremy's Gmail" width="24px" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/gmail.png" />
-</a>
-
-
